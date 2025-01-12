@@ -16,4 +16,6 @@ margin: 0;
 nav a{
 display: flex;
 flex-direction: row;
+text-decoration-style: none;
+color: gold;
 }
