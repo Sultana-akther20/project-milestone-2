@@ -1,0 +1,11 @@
+
+h1{
+font-size: 5rem;
+position: center;
+}
+body{
+background-image: url(../imges/background-image-dessert.jpg);
+background-position: 0;
+background-size: cover;
+position: center;
+}
